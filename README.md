@@ -1,4 +1,11 @@
-#Aplicacion de tablas de multiplicar.
+# Aplicacion de tablas de multiplicar.
+
+## Como usar:
+
+```
+node app [options]
+
+```
 
 ```
 Options:
